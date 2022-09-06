@@ -1,0 +1,95 @@
+body {
+  background-color: black;
+}
+
+@font-face { font-family: HarryP; src: url('fonts/harry\ potter\ font/HARRYP.TTF'); } 
+
+h1 {
+color: antiquewhite;
+  text-align: center;
+  font-size: 5em;
+  font-family: HarryP, fantasy, serif;
+  font-weight: normal;
+}
+
+#memory-game {
+  color: antiquewhite;
+  text-align: center;
+  font-size: 3em;
+  font-family: HarryP, fantasy, serif;
+}
+
+#game div {
+  border: 1px solid white;
+  border-radius: 10px;
+  width: 15%;
+  height: 200px;
+  margin: 10px;
+  display: inline-block;
+}
+/* 
+.hermione {
+  background-image: url(images/Hermione_Granger_poster.jpg);
+  width: 150px;
+  height: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  backface-visibility: hidden;
+}
+
+.harry {
+  background-image: url(images/Harry_Potter_character_poster.jpg);
+  width: 150px;
+  height: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  backface-visibility: hidden;
+}
+
+.ron {
+  background-image: url(images/Ron_Weasley_poster.jpg);
+  width: 150px;
+  height: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  backface-visibility: hidden;
+}
+
+.neville {
+  background-image: url(images/Neville_Longbottom.jpeg);
+  width: 150px;
+  height: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  backface-visibility: hidden;
+}
+
+.draco {
+  background-image: url(images/Draco_Mal.JPG);
+  width: 150px;
+  height: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  backface-visibility: hidden;
+}
+
+.card-back {
+  background-image: url(images/HP_-_Harry_Potter_wordmark.svg.png);
+  width: 150px;
+  height: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  backface-visibility: hidden;
+} */
